@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently polishing my Social Engineering skills<br><br>🌱 I’m currently learning C,CyberSecurity<br><br>👨‍💻 All of my projects are available at https://github.com/D3M0NT3<br><br>💬 Feel free to ask me about C & CyberSecurity topics<br><br>
+🔭 I’m currently polishing my Social Engineering skills<br><br>🌱 I’m currently learning C, CyberSecurity<br><br>👨‍💻 All of my projects are available at https://github.com/D3M0NT3<br><br>💬 Feel free to ask me about C & CyberSecurity topics<br><br>
 
 
 ## 🌐 Socials:
